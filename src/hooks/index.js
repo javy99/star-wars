@@ -1,0 +1,8 @@
+export { default as useData } from './useData'
+export { default as useFilms } from './useFilms'
+export { default as useCharacters } from './useCharacters'
+export { default as usePlanets } from './usePlanets'
+export { default as useSpecies } from './useSpecies'
+export { default as useVehicles } from './useVehicles'
+export { default as useStarships } from './useStarships'
+export { default as useCardClick } from './useCardClick'

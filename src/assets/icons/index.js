@@ -1,0 +1,7 @@
+export { default as EpisodesIcon } from './EpisodesIcon'
+export { default as CharactersIcon } from './CharactersIcon'
+export { default as PlanetsIcon } from './PlanetsIcon'
+export { default as SpeciesIcon } from './SpeciesIcon'
+export { default as VehiclesIcon } from './VehiclesIcon'
+export { default as StarshipsIcon } from './StarshipsIcon'
+export { default as LogoIcon } from './LogoIcon'
